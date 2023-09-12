@@ -5,4 +5,4 @@
 
 | No | Question Name | Difficulty | Score | Solution(s) | Subject | HR Link |
 |--|--|--|--|--|--|--|
-| 1 | [**Day 1 : Welcome to Java!**](Solution/Welcome_to_java.md) | Easy | 5 | 1 | `str` | [link](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true) |
+| 1 | [**Day 1 : Welcome to Java!**](solution/Welcome_to_java.md) | Easy | 5 | 1 | `str` | [link](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true) |
