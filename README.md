@@ -13,3 +13,4 @@
 | 6 | [**Day 6 : Java Loops I**](solution/Java_loops_I.md) | Easy | 10 | 1 | `Control Statement` | [LINK](https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true) |
 | 7 | [**Day 7 : Java Loops II**](solution/Java_Loops_II.md) | Easy | 10 | 1 | `Control Statement` | [LINK](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true) |
 | 8 | [**Day 8 : Java Data Type**](solution/JavaDataType.md) | Easy | 10 | 1 | `Data Type` | [LINK](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true) |
+| 9 | [**Day 9 : Java End of File**](solution/EndOfFile.md) | Easy | 10 | 1 | `Loop` | [LINK](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true) |
