@@ -17,3 +17,4 @@
 | 10 | [**Day 10 : Java Static Initializer Block**](solution/Java_Static_Initializer_Block.md) | Easy | 10 | 1 | `Loop` | [LINK](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true) |
 | 11 | [**Day 11 : Java Int to String**](solution/Java_Int_to_String.md) | Easy | 10 | 1 | `Loop` | [LINK](https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=true) |
 | 12 | [**Day 12 : Java Date and Time**](solution/Java_Date_and_Time.md) | Easy | 15 | 1 | `Loop` | [LINK](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true) |
+| 13 | [**Day 13 : Java Currency Formatter**](solution/Java_Currency_Formatter.md) | Easy | 15 | 1 | `Loop` | [LINK](https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true) |
