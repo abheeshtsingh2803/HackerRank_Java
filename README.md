@@ -20,3 +20,4 @@
 | 13 | [**Day 13 : Java Currency Formatter**](solution/Java_Currency_Formatter.md) | Easy | 15 | 1 | `Loop` | [LINK](https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true) |
 | 14 | [**Day 14 : Java Inheretance**](solution/Java_Inherentance_I.md) | Easy | 5 | 1 | `Loop` | [LINK](https://www.hackerrank.com/challenges/java-inheritance-1/problem?isFullScreen=true) |
 | 15 | [**Day 15 : Java Inheretance II**](solution/Java_Inherentance_II.md) | Easy | 5 | 1 | `Loop` | [LINK](https://www.hackerrank.com/challenges/java-inheritance-2/problem?isFullScreen=true) |
+| 16 | [**Day 16 : Java Abstract Class**](solution/Java_Abstract_Class.md) | Easy | 10 | 1 | `Loop` | [LINK](https://www.hackerrank.com/challenges/java-abstract-class/problem?isFullScreen=true) |
