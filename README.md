@@ -23,3 +23,4 @@
 | 16 | [**Day 16 : Java Abstract Class**](solution/Java_Abstract_Class.md) | Easy | 10 | 1 | `Loop` | [LINK](https://www.hackerrank.com/challenges/java-abstract-class/problem?isFullScreen=true) |
 | 17 | [**Day 17 : Java Strings Introduction**](solution/Java_Strings_Introduction.md) | Easy | 10 | 1 | `Loop` | [LINK](https://www.hackerrank.com/challenges/java-strings-introduction/problem?isFullScreen=true) |
 | 18 | [**Day 18 : Java Substring**](solution/Java_Substring.md) | Easy | 5 | 1 | `Loop` `substring` | [LINK](https://www.hackerrank.com/challenges/java-substring/problem?isFullScreen=true) |
+| 19 | [**Day 19 : Java string Comparision**](solution/Java_String_Comparision.md) | Easy | 10 | 1 | `Loop` `substring` | [LINK](https://www.hackerrank.com/challenges/java-string-compare/problem?isFullScreen=true) |
